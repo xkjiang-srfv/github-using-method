@@ -23,3 +23,6 @@ git add *
 git commit -m "Second commit"  
 3. 上传   
 git push EthernetSSD-System main  
+
+三、在自己仓库中加入别人仓库的链接
+1. 参考网址：https://blog.csdn.net/qq_31375855/article/details/119831420
